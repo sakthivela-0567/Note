@@ -1,3 +1,13 @@
+This project purpose for taking notes from terminal.
+it takes commands from terminal.
+following instruction are given below.
+
+
+
+
+
+
+
 NOTES APP
 Technology Used : NODEJS
 NPM Modules used : chalk,yargs
@@ -16,3 +26,7 @@ Removing a note using title
 
 Adding a note
 	> node app.js add --title="Title of note" --body="Content"
+
+
+
+REGARDS :)
